@@ -352,8 +352,7 @@ I'm looking forward to the next phase—actually building the QA system. The fou
 
 ### A. Project Repository
 All code and data are available at:  
-https://github.com/amirawael1/nlp-amazon-qa-project
-
+https://github.com/amirawael1/MineCart
 ### B. Generated Files
 The data analysis produced these files in the `reports/` folder:
 - `milestone1_analysis_summary.csv` - Key statistics
