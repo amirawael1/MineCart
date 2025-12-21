@@ -363,10 +363,10 @@ The data analysis produced these files in the `reports/` folder:
 
 ### C. Contact Information
 **Student**: Amira Wael - Khaled Ehab  
-**Email**: amira.wael@giu-uni.de | khaled.attia@giu-uni.de
+**Email**: amira.wael@giu-uni.de | khaled.attia@giu-uni.de  
 **Course**: INCS 903 NLP Project  
 **Institution**: German International University  
-**Submission Date**: December, 2025
+**Submission Date**: December 28th, 2025
 
 
 
