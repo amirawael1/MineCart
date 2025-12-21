@@ -147,9 +147,6 @@ Few papers address how to build QA systems for e-commerce specifically. Most foc
 
 ## 📊 **STEP 4: Write Data Analysis Section**
 
-**Continue typing:**
-
-```markdown
 ## 3. Data Analysis
 
 ### 3.1 About the Dataset
@@ -366,7 +363,7 @@ The data analysis produced these files in the `reports/` folder:
 
 ### C. Contact Information
 **Student**: Amira Wael - Khaled Ehab  
-**Email**: amira.wael@giu-uni.de  
+**Email**: amira.wael@giu-uni.de | khaled.attia@giu-uni.de
 **Course**: INCS 903 NLP Project  
 **Institution**: German International University  
 **Submission Date**: December, 2025
