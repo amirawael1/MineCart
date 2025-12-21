@@ -12,7 +12,6 @@ ENV/
 
 # Data files - DO NOT UPLOAD LARGE FILES
 data/raw/
-*.csv
 *.json
 *.pkl
 *.h5
