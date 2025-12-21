@@ -1,0 +1,2 @@
+analysis_date,total_products,total_columns,missing_values_total,unique_categories,avg_price,min_price,max_price,products_with_reviews,best_seller_count,data_source
+2025-12-21 12:02:47,10000,13,0,241,42.715702,0.0,2762.31,10000,60,"GitHub Sample (10,000 rows)"
