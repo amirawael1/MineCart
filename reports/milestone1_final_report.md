@@ -87,7 +87,8 @@ result = qa_pipeline(
 )
 print(result['answer'])  # Output: Qatar
 
-```markdown
+```
+
 This worked surprisingly well with just a few lines of code. It made me realize how powerful pre-trained models are.
 
 Experiment 2: Fine-tuning for Product Questions
